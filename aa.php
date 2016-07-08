@@ -1,6 +1,6 @@
 <?php
 
-for ($i=0; $i<20; $i++){
+for ($i=0; $i<17; $i++){
 	echo "$i"."\n";
 };
 echo "Ala ma kota";
